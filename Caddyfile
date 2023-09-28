@@ -1,0 +1,32 @@
+{
+  admin off
+}
+
+webshop.local:80 {
+	handle_path /api/v1/catalog/* {
+		reverse_proxy catalog:8000
+	}
+	handle_path /api/v1/cart/* {
+		reverse_proxy cart:8000
+	}
+	handle_path /api/v1/warehouse/* {
+		reverse_proxy warehouse:8000
+	}
+	handle_path /api/v1/billing/* {
+		reverse_proxy billing:8000
+	}
+	handle_path /rabbitmq/* {
+		reverse_proxy rabbitmq:15672
+	}
+	reverse_proxy /* frontend:5173
+	tls internal
+}
+
+auth.webshop.local:80 {
+	reverse_proxy /* auth:8080
+	tls internal
+}
+
+log
+
+
