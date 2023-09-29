@@ -1,6 +1,6 @@
 # Webshop for CBE course at HTW 2023
 
-[Architecture drawings](https://excalidraw.com/#json=4oxX6cARsTWFF9Yabdy-I,AzzUC8w87BvrrbslQEFZ2g)
+[Presentation / Architecture / Event storming board / Wireframes](https://excalidraw.com/#json=T0zj48VIZUT4IfxTvGpUW,d81Bf4zIcEo6ZGAf2enyyw)
 
 *Subrepositories:*
 
