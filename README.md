@@ -1,6 +1,6 @@
 # Webshop for CBE course at HTW 2023
 
-## Subrepositories
+**Subrepositories**
 
 - [Frontend](https://github.com/amilch/webshop-frontend) 
 - [Catalog Service](https://github.com/amilch/webshop-catalog) 
