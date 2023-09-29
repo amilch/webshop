@@ -2,7 +2,7 @@
 
 [Presentation / Architecture / Event storming board / Wireframes](https://excalidraw.com/#json=T0zj48VIZUT4IfxTvGpUW,d81Bf4zIcEo6ZGAf2enyyw)
 
-*Subrepositories:*
+**Subrepositories**
 
 - [Frontend](https://github.com/amilch/webshop-frontend) 
 - [Catalog Service](https://github.com/amilch/webshop-catalog) 
