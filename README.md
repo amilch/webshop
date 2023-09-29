@@ -1,8 +1,6 @@
 # Webshop for CBE course at HTW 2023
 
-[Architecture drawings](https://excalidraw.com/#json=4oxX6cARsTWFF9Yabdy-I,AzzUC8w87BvrrbslQEFZ2g)
-
-*Subrepositories:*
+## Subrepositories
 
 - [Frontend](https://github.com/amilch/webshop-frontend) 
 - [Catalog Service](https://github.com/amilch/webshop-catalog) 
